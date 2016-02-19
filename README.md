@@ -1,2 +1,2 @@
-# my-experiments
+# My experiments
 Tests and experiments.
